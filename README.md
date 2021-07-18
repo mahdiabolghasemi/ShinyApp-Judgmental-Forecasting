@@ -1,8 +1,9 @@
 # ShinyApp-Judgmental-Forecasting
 
-This is a shiny app designed to investogate the value of judgmental forecasts incoporated by experts. The purpose of this study is to analyse if experts judgment can add value to the statistical forecasts. 
+This is a shiny app designed to investogate the value of judgmental forecasts incoporated by experts. You can see the app at https://mahdiforecasting.shinyapps.io/Prediction/
 
 
+The purpose of this study is to analyse if experts judgment can add value to the statistical forecasts. 
 We use the real-world time series where they are blended with promotions. Participants were given 24 different sales series representing the actual sales of different products in a company. Each series has 24 observations with different scales of sales, promotion status, and sales uplifts due to promotion.
 We develop an advanced baseline statistical forecast that is simple yet effective to capture the promotion impact to some extent. This model takes into account the most significant variable (the price of the products in this study) and fits a dynamic linear regression model. While we take into account the impact of price, other variables such as products display in the shelf, advertisement, weather, economic status, etc may impact sales. Providing all this information may not be helpful for experts to generate a more accurate forecasts and it is difficult to distinguish the relative impact of these variables on sales.  Moreover, these variable impact sales marginally. Therefore, we include all of them in a binary variable called “environmental impact” that takes either a positive or negative status. This can help experts in a Forecasting Support System (FSS) to lessen the cognitive load, and provide a consistent form of information for evaluation. 
 We had 78 students took part in this experiment at the Monash behavioral business lab at Monash University. 
