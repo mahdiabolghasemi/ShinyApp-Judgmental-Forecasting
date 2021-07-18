@@ -1,0 +1,12 @@
+name: experiment
+title: Experiment
+username:
+account: mahdiforecasting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 368456
+bundleId: 1509518
+url: https://mahdiforecasting.shinyapps.io/Experiment/
+when: 1533037180.25763
+asMultiple: FALSE
+asStatic: FALSE

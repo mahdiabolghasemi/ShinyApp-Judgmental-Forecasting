@@ -1,0 +1,12 @@
+name: prediction8
+title: prediction8
+username:
+account: mahdiforecasting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 452748
+bundleId: 1605972
+url: https://mahdiforecasting.shinyapps.io/prediction8/
+when: 1537930897.92677
+asMultiple: FALSE
+asStatic: FALSE

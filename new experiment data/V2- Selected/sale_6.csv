@@ -1,0 +1,26 @@
+time,actual_sale,baseline_forecast,advanced_forecast,no_forecast,promo,Environmental_Impact
+1,827,NA,NA,NA,No Pro,Uncertain
+2,2310,NA,NA,NA,B,Uncertain
+3,806,NA,NA,NA,No Pro,Uncertain
+4,870,NA,NA,NA,No Pro,Uncertain
+5,931,NA,NA,NA,No Pro,Uncertain
+6,871,NA,NA,NA,No Pro,Uncertain
+7,3820,NA,NA,NA,A,Positive
+8,954,NA,NA,NA,No Pro,Uncertain
+9,889,NA,NA,NA,No Pro,Uncertain
+10,867,NA,NA,NA,No Pro,Uncertain
+11,943,NA,NA,NA,No Pro,Uncertain
+12,998,NA,NA,NA,No Pro,Uncertain
+13,1064,NA,NA,NA,No Pro,Uncertain
+14,2645,NA,NA,NA,B,Uncertain
+15,1049,NA,NA,NA,No Pro,Uncertain
+16,935,NA,NA,NA,No Pro,Uncertain
+17,1092,NA,NA,NA,No Pro,Uncertain
+18,3002,NA,NA,NA,A,Negative
+19,1178,NA,NA,NA,No Pro,Uncertain
+20,1041,NA,NA,NA,No Pro,Uncertain
+21,1252,NA,NA,NA,No Pro,Uncertain
+22,1128,NA,NA,NA,No Pro,Uncertain
+23,1300,NA,NA,NA,No Pro,Uncertain
+24,1280,NA,NA,NA,No Pro,Uncertain
+25,NA,NA,NA,NA,No Pro,Uncertain

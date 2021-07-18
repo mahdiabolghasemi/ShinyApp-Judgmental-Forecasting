@@ -1,0 +1,12 @@
+name: PredictionExperiment
+title: PredictionExperiment
+username:
+account: mahdiforecasting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 448743
+bundleId: 1588089
+url: https://mahdiforecasting.shinyapps.io/PredictionExperiment/
+when: 1537102671.85388
+asMultiple: FALSE
+asStatic: FALSE
